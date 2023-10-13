@@ -22,7 +22,7 @@ HuflitBooking có sẵn trên App Store cho các thiết bị iOS và trên Goog
 
 Yêu Cầu Hệ Thống
 Phiên bản di động: iOS 10.0 trở lên, Android 5.0 trở lên.
-Phiên bản web: Trình duyệt web hiện đại với kết nối internet.
+
 
 Liên Hệ
 Email: contact@huflitbooking.com
