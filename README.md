@@ -1,4 +1,4 @@
-HuflitBooking là ứng dụng đặt vé máy bay tối ưu, tiện lợi và đáng tin cậy. Với FlyAway, việc tìm kiếm và đặt vé máy bay trở nên dễ dàng và thoải mái hơn bao giờ hết. Ứng dụng giúp bạn kế hoạch chuyến đi của mình một cách hiệu quả và tiết kiệm thời gian, cho phép bạn tập trung vào việc tận hưởng chuyến đi của mình.
+HuflitBooking là ứng dụng đặt vé máy bay tối ưu, tiện lợi và đáng tin cậy. Với HuflitBooking, việc tìm kiếm và đặt vé máy bay trở nên dễ dàng và thoải mái hơn bao giờ hết. Ứng dụng giúp bạn kế hoạch chuyến đi của mình một cách hiệu quả và tiết kiệm thời gian, cho phép bạn tập trung vào việc tận hưởng chuyến đi của mình.
 
 Tính Năng
 
@@ -24,8 +24,8 @@ Phiên bản di động: iOS 10.0 trở lên, Android 5.0 trở lên.
 Phiên bản web: Trình duyệt web hiện đại với kết nối internet.
 
 Liên Hệ
-Email: contact@flyawayapp.com
+Email: contact@huflitbooking.com
 Số điện thoại: 123-456-7890
 
-Trang web: https://www.flyawayapp.com
+Trang web: https://www.huflitbooking.com
 FlyAway cam kết mang đến cho bạn một trải nghiệm đặt vé máy bay thuận tiện, linh hoạt và tiết kiệm thời gian để bạn có thể khám phá thế giới một cách dễ dàng và thoải mái.
