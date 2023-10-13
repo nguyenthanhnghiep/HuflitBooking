@@ -1,4 +1,4 @@
-FlyAway là ứng dụng đặt vé máy bay tối ưu, tiện lợi và đáng tin cậy. Với FlyAway, việc tìm kiếm và đặt vé máy bay trở nên dễ dàng và thoải mái hơn bao giờ hết. Ứng dụng giúp bạn kế hoạch chuyến đi của mình một cách hiệu quả và tiết kiệm thời gian, cho phép bạn tập trung vào việc tận hưởng chuyến đi của mình.
+HuflitBooking là ứng dụng đặt vé máy bay tối ưu, tiện lợi và đáng tin cậy. Với FlyAway, việc tìm kiếm và đặt vé máy bay trở nên dễ dàng và thoải mái hơn bao giờ hết. Ứng dụng giúp bạn kế hoạch chuyến đi của mình một cách hiệu quả và tiết kiệm thời gian, cho phép bạn tập trung vào việc tận hưởng chuyến đi của mình.
 Tính Năng
 1. Tìm Vé Máy Bay Dễ Dàng
 Tìm kiếm vé máy bay dựa trên điểm khởi hành, điểm đến, và ngày đi về.
