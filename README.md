@@ -19,6 +19,7 @@ Hỗ trợ khách hàng liên tục và tức thì qua chat trực tuyến, emai
 
 Cài Đặt
 HuflitBooking có sẵn trên App Store cho các thiết bị iOS và trên Google Play Store cho các thiết bị Android. 
+
 Yêu Cầu Hệ Thống
 Phiên bản di động: iOS 10.0 trở lên, Android 5.0 trở lên.
 Phiên bản web: Trình duyệt web hiện đại với kết nối internet.
