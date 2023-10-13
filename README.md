@@ -14,13 +14,16 @@ Xem thông tin chi tiết về chuyến bay, bao gồm thời gian cất cánh, 
 Nhận thông báo về thay đổi lịch trình của chuyến bay.
 5. Hỗ Trợ Khách Hàng 24/7
 Hỗ trợ khách hàng liên tục và tức thì qua chat trực tuyến, email và điện thoại để giải quyết mọi vấn đề của bạn.
+
 Cài Đặt
-FlyAway có sẵn trên App Store cho các thiết bị iOS và trên Google Play Store cho các thiết bị Android. Bạn cũng có thể truy cập phiên bản web từ trình duyệt.
+HuflitBooking có sẵn trên App Store cho các thiết bị iOS và trên Google Play Store cho các thiết bị Android. Bạn cũng có thể truy cập phiên bản web từ trình duyệt.
 Yêu Cầu Hệ Thống
 Phiên bản di động: iOS 10.0 trở lên, Android 5.0 trở lên.
 Phiên bản web: Trình duyệt web hiện đại với kết nối internet.
+
 Liên Hệ
 Email: contact@flyawayapp.com
 Số điện thoại: 123-456-7890
+
 Trang web: https://www.flyawayapp.com
 FlyAway cam kết mang đến cho bạn một trải nghiệm đặt vé máy bay thuận tiện, linh hoạt và tiết kiệm thời gian để bạn có thể khám phá thế giới một cách dễ dàng và thoải mái.
